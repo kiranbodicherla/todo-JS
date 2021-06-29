@@ -99,18 +99,6 @@ function saveEdit(x) {
 }
 
 
-// }
-
-//function to remove all tasks at once
-
-
-    // var elementToCheck = table.childNodes[1].childNodes[childNodeCount].nextSibling;
-    //   console.log(loopLength.nodeName);
-    //  if(loopLength == '#text'){
-    //     console.log('yahi haaa');
-    //  }
-
-    // document.getElementById('clear-all-btn').remove();
 
 
 
